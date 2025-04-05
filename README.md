@@ -1,7 +1,5 @@
-Overview
 
-This repository contains a presentation on Memory Management, comparing Manual Memory Management, Garbage Collection (GC), and Rust's Ownership Model. It explores their mechanisms, advantages, disadvantages, and real-world use cases, with a focus on ensuring memory safety and performance optimization.
-Contents
+This repository consists of a presentation on Garbage Collection which breifly touches Manual Memory Management,Garbage Collection (GC), and Rust's Ownership Model. It also delves into their mechanisms, pros & cons and real word use cases.
 
     Memory Management Techniques:
 
